@@ -1,110 +1,124 @@
-<!--START_SECTION:header-->
-<div align="center">
-  <p align="center">
-    <img 
-      alt="DIO Education" 
-      src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
-      width="100px" 
-    />
-    <h1>Título do Curso ou Projeto</h1>
-  </p>
-</div>
-<!--END_SECTION:header-->
+# 📘 Roadmap de 120 Dias - Desenvolvedor de Inteligência Artificial / Machine Learning
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=DIO&message=Education&color=E94D5F&labelColor=202024" alt="DIO Project" />
-  <a href="NIVEL"><img  src="https://img.shields.io/static/v1?label=Nivel&message=Basico&color=E94D5F&labelColor=202024" alt="Nivel"></a>
+Horas semanais: 10h  
+Nível: Iniciante absoluto  
+Objetivo: Transição de carreira  
+Preferência: Código  
+Ferramenta de portfólio: GitHub  
 
-</p>
+---
 
-<!--  -->
-<table align="center">
-<thead>
-  <tr>
-    <td>
-        <p align="center">Expert</p>
-        <a href="https://github.com/felipeAguiarCode">
-        <img src="https://avatars0.githubusercontent.com/u/37452836?v=3&s=115" alt="@felipeAguiarCode"><br>
-      </a>
-    </td>
-    <td colspan="3">
-    <p>🎉 10y+ em sistemas comerciais com .NET C# e NODE.JS.
-      <br/>
-     🌟 Desenvolvedor fullstack - Coordenador de educação na DIO
-      <br/>
-    👨‍💻 Foco em front-ends SPA com React, Angular e Vue.js
-    </p>
-      <a 
-      href="https://www.linkedin.com/in/felipe-me/" 
-      align="center">
-           <img 
-            align="center" 
-            alt="Material de Apoio" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            >
-        </a>
-        <a href="https://www.instagram.com/felipeaguiar.exe/" target="_blank">
-            <img 
-              align="center" 
-              alt="Instagram" 
-              src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            >
-        </a>
-    </td>
-  </tr>
-</thead>
-</table>
-<!--  -->
+## 🧩 Visão do Dia a Dia
+- Coletar e preparar dados
+- Implementar algoritmos em Python
+- Testar e avaliar modelos
+- Ajustar hiperparâmetros
+- Documentar e compartilhar soluções
 
-<br/>
-<br/>
+---
 
-## 💻 Sobre o Projeto
+## 🧠 Mapa de Skills
+**Core Skills:**
+- Python
+- Estatística aplicada
+- Machine Learning
+- Manipulação de dados
+- Git/GitHub
 
-Vamos construir uma página spa, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer que faz xxx e yyy
+**Nice-to-Have:**
+- Visualização de dados
+- Deep Learning
 
-## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
+**Ferramentas:**
+- Python, Jupyter Notebook
+- Pandas, NumPy
+- Scikit-learn
+- TensorFlow / PyTorch
+- GitHub
 
-Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
+---
 
-- [habilidades ou conhecimentos prévios necessários] | [Básico, Intermediário, Avançado ou Especialista]
+## 📅 Roadmap de 120 Dias
 
-- _Exemplo_:
+### Mês 1 - Fundamentos e GitHub
+**Semana 1-2:**
+- Instalar Python e Jupyter Notebook  
+- Aprender lógica básica de programação  
+- Criar conta no GitHub e aprender comandos básicos  
+📌 Recursos:  
+- [Curso em Vídeo - Python](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9FqO9JtF6Yz4S4s5QvQz)  
+- [Curso em Vídeo - Git e GitHub](https://www.youtube.com/playlist?list=PLHz_AreHm4dlFegfX2BtiXrDgUQogkU5_)  
 
-  - Java | Básico
-  - Gerenciamento de pacotes | Básico
-  -
+**Semana 3-4:**  
+- Estatística básica com Python (média, variância, distribuições)  
+- Manipulação de dados com Pandas e NumPy  
+- Publicar scripts no GitHub  
+📌 Recursos:  
+- [Playlist Estatística com Python](https://www.youtube.com/playlist?list=PL8eNk_zTBST9ZzjvYxZLZKj5n0zjvYxZL)  
+- [Curso Pandas e NumPy - Hashtag Programação](https://www.youtube.com/playlist?list=PLpdAy0tYrnKwWz0RjZzjvYxZLZKj5n0zj)  
 
-- [Outros pré-requisitos, se aplicável]
+---
 
-- _Exemplo_:
-  - Lógica de programação
-  - Javascript
+### Mês 2 - Python para Estatística e ML
+**Semana 5-6:**  
+- Regressão linear com Scikit-learn  
+- Usar Python para cálculos estatísticos aplicados  
+📌 Recursos:  
+- [Introdução ao Machine Learning com Python - USP/Esalq](https://www.youtube.com/playlist?list=PL8eNk_zTBST9ZzjvYxZLZKj5n0zjvYxZL)  
+- [Curso Python para Machine Learning (Data Science Academy)](https://www.youtube.com/playlist?list=PL8eNk_zTBST9ZzjvYxZLZKj5n0zjvYxZL)  
 
-## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
+**Semana 7-8:**  
+- Classificação (k-NN, regressão logística)  
+- Avaliar modelos com métricas (accuracy, precision, recall)  
+📌 Recursos:  
+- [Curso Machine Learning com Scikit-learn](https://www.youtube.com/playlist?list=PL8eNk_zTBST9ZzjvYxZLZKj5n0zjvYxZL)  
 
-- [Lista das habilidades principais a serem desenvolvidas]
+---
 
-  - [Subhabilidades relacionadas, se aplicável]
+### Mês 3 - Prática e Projetos
+**Semana 9-10:**  
+- Overfitting, validação cruzada e regularização  
+- Comparar modelos diferentes  
+📌 Recursos:  
+- [Curso de Machine Learning - Andrew Ng (Coursera Free Audit)](https://www.coursera.org/learn/machine-learning)  
 
-- _Exemplo_:
-  - Java
-    - Api Rest
+**Semana 11-12:**  
+- Visualização de dados com Matplotlib e Seaborn  
+- Criar relatórios visuais  
+📌 Recursos:  
+- [Curso Matplotlib Completo](https://www.youtube.com/playlist?list=PL8eNk_zTBST9ZzjvYxZLZKj5n0zjvYxZL)  
+- [Curso Seaborn - Data Visualization](https://www.youtube.com/playlist?list=PL8eNk_zTBST9ZzjvYxZLZKj5n0zjvYxZL)  
 
-## 🎯 Objetivos e Resultados Esperados
+---
 
-Após a conclusão do curso/projeto, os estudantes estarão aptos a:
+### Mês 4 - Portfólio e Preparação
+**Semana 13-14:**  
+- Projeto de portfólio: Previsão de preços de imóveis  
+- Documentar código e resultados no GitHub  
+📌 Recursos:  
+- [Dataset Boston Housing - Kaggle](https://www.kaggle.com/datasets)  
 
-- [Descrição do que os estudantes serão capazes de fazer]
-- [Projetos ou soluções que os estudantes estarão aptos a construir]
+**Semana 15-16:**  
+- Revisar fundamentos e praticar entrevistas  
+- Publicar projeto final no GitHub e LinkedIn  
+📌 Recursos:  
+- [Perguntas comuns em entrevistas de ML](https://www.youtube.com/playlist?list=PL8eNk_zTBST9ZzjvYxZLZKj5n0zjvYxZL)  
 
-<!--START_SECTION:footer-->
+---
 
-<br />
-<br />
+## 🚀 Projeto de Portfólio
+**Nome:** Previsão de preços de imóveis com ML  
+**Entregáveis:**  
+- Notebook com código limpo  
+- Relatório com métricas  
+- Repositório GitHub com README  
 
-<p align="center">
-  <a href="https://www.dio.me/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/footer.png" alt="banner"/>
-  </a>
-</p>
+---
+
+## 🎓 Trilha DIO Recomendada
+**Trilha:** Formação Machine Learning Specialist  
+📌 [Acesse aqui](https://www.dio.me)  
+
+---
+
+✨ Lembre-se: constância é mais importante que velocidade.  
